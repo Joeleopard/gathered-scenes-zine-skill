@@ -1,6 +1,6 @@
 <div align="center">
 
-# 作者自己开发的网站已上线：https://zeejayzine.com/ 。欢迎使用（接入GPT5.6+image2顶流模型，国内环境可用）
+# 作者自己开发的网站已上线：https://zeejayzine.com/ 。  欢迎使用（接入GPT5.6+image2顶流模型，国内环境可用）
 
 # 拾景zine
 
