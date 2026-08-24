@@ -2,6 +2,20 @@
 
 # 作者自己开发的网站已上线：https://zeejayzine.com/ 。  欢迎使用（接入GPT5.6+image2顶流模型，国内环境可用）
 
+## 自营 GPT / Claude 代充与成品号
+
+**严格筛选渠道商，提供完全正规的充值渠道与服务。**<br>
+欢迎访问 zine AI 充值卡网（已上线 Plus 代充、Pro 5x、20x 等等）：
+
+<a href="https://zeejayai.store/">
+  <img src="assets/brand/zine-ai-gpt-claude-recharge.png" alt="zine AI GPT 与 Claude 代充及成品号服务" width="82%">
+</a>
+
+**zine AI GPT 与 Claude 代充及成品号服务**<br>
+[zine AI 充值卡网：https://zeejayai.store/](https://zeejayai.store/)
+
+---
+
 # 拾景zine
 
 ### GATHERED SCENES ZINE
